@@ -1,3 +1,3 @@
 # Terminal01
 ## Jean Paul Vidal Ceron
-## 12 de Junio de 2024
+## Miercoles 12 de Junio de 2024
